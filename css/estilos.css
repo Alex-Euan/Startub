@@ -28,7 +28,8 @@ header {
         font-size: 18px; }
       header .contenedor_logo_menu .menu a:hover {
         text-decoration: none;
-        color: #000; }
+        color: #000;
+        border-bottom: 2px solid #000; }
   header .textos {
     color: #fff;
     text-align: center;
